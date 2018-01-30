@@ -1,10 +1,18 @@
-<<<<<<< HEAD
 Dinesh Verma
-Animesh Pandey
-=======
+vishruty
+Nikhil Patni
+akash verma
+Dinesh Verma
+Lokesh Ris
+Sanchit
 Nikhil Patni
 Dinesh Verma
+Ritu Dharmadhikari
+Nikhil Patni
+Dinesh Verma
+Nikhil Patni
 Vatsal Thakkar
 Lokesh Rishi
 Girish Mehta
->>>>>>> 3e5a61eb0216b37b2e0e8c997a1b7e6d064d2465
+Gursharanjit Singh
+Animesh Pandey
