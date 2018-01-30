@@ -1,3 +1,4 @@
+Anand MOhan
 Dinesh Verma
 vishruty
 Nikhil Patni
@@ -14,9 +15,6 @@ Nikhil Patni
 Vatsal Thakkar
 Lokesh Rishi
 Girish Mehta
-<<<<<<< HEAD
-=======
 Gursharanjit Singh
 Animesh Pandey
->>>>>>> ee1c2c53b54079c5e7c5f2494604da224b939fc1
 SRIDHARAN
