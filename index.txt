@@ -1,26 +1,18 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Dinesh Verma
 vishruty
-=======
 Nikhil Patni
-=======
->>>>>>> bf0518257e7d89f2cbd17f1dfe24230924c5c130
-=======
 akash verma
 Dinesh Verma
 Lokesh Ris
 Sanchit
 Nikhil Patni
->>>>>>> 866c9e60b8a8a5f936b6587b4d39e2c95b992331
+Dinesh Verma
+Ritu Dharmadhikari
+Nikhil Patni
 Dinesh Verma
 Nikhil Patni
 Vatsal Thakkar
 Lokesh Rishi
 Girish Mehta
 sridharan
->>>>>>> f61f4c5c607f19afad2d87e3e530c622ee768d80
-=======
 
->>>>>>> 866c9e60b8a8a5f936b6587b4d39e2c95b992331
