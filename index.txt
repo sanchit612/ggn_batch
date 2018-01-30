@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 akash verma
+=======
+Dinesh Verma
+Lokesh Rishi
+>>>>>>> f5fc45915439e03a0be9434c99582598df2707e2
